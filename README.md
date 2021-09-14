@@ -117,5 +117,6 @@ I've been learning more about UI/UX Designer every day. What made me have a bett
   <a href="https://instagram.com/lucas_dshg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.dshg@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-henriques-997276125" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	 <a href="https://www.behance.net/lucashenriques" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
  
 </div>
