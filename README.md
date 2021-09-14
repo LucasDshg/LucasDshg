@@ -25,7 +25,7 @@ I've been learning more about UI/UX Designer every day. What made me have a bett
 				<img width=260 src="https://github-readme-stats-lucasdshg.vercel.app/api/top-langs/?username=LucasDshg&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
 	</a>
 	<a href="https://activity-graph.herokuapp.com" style="margin: 10px">
-		<img src="https://activity-graph.herokuapp.com/graph?username=LucasDshg&theme=react-dark&bg_color=20232a&" height="240"/>
+		<img src="https://activity-graph.herokuapp.com/graph?username=LucasDshg&theme=react-dark&bg_color=20232a&" height="220"/>
 	</a>
  	</p>
 </div>
