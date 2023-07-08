@@ -8,8 +8,6 @@ As a designer and developer, my goal is to meet users' needs with simple and eng
 
 I've Experienced in developing intuitive and customer-centric websites.
 
-I've been learning more about UI/UX Designer every day. What made me have a better perception of the products I build.
-
  <div style="display: inline_block">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="margin: 10px">
 			<img  width=396 src="https://github-readme-stats.vercel.app/api?username=LucasDshg&count_private=true&show_icons=true&theme=react&border_color=61dafb" />
