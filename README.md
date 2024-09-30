@@ -19,6 +19,7 @@ I've Experienced in developing intuitive and customer-centric websites.
 
  <div style="display: inline_block">
  <p align="left"> 
+	 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDshg&show_icons=true&theme=radical)
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 				<img width=220 src="https://github-readme-stats-lucasdshg.vercel.app/api/top-langs/?username=LucasDshg&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
 	</a>
