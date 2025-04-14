@@ -1,120 +1,21 @@
-## Hey! I'm Lucas Henriques
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lucasDshg.lucasDshg"> -->
-
-### `Front-end Developer` and `UI Designer` specializing in interactive and visual solutions for the web.
+# 💫 About Me:
+I'm Lucas, acting as Senior Software Developer and UI/UX Designer, specialized in visual and interactive solutions for the web. My professional career is marked by the creation of intuitive and customer-centric websites, using cutting-edge technologies such as Angular, Ionic, NodeJs and NestJs to deliver engaging and effective digital experiences.<br><br>Excellence in development and design is my north, always seeking to align the needs of users with simple and attractive designs. With a collaborative approach, I work alongside teams to innovate and overcome challenges in UI/UX, contributing significantly to projects that stand out in the digital market.
 
 
-As a designer and developer, my goal is to meet users' needs with simple and engaging designs.
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lucashenriques) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-henriques-997276125) 
 
-I've Experienced in developing intuitive and customer-centric websites.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LucasDshg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LucasDshg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDshg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <div style="display: inline_block">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="margin: 10px">
-			<img  width=396 src="https://github-readme-stats.vercel.app/api?username=LucasDshg&count_private=true&show_icons=true&theme=react&border_color=61dafb" />
-    </a>
-		<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-		<img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDshg&theme=react&border=61dafb" alt="LucasDshg" />
-    </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LucasDshg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- <div style="display: inline_block">
- <p align="left"> 
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-				<img width=220 src="https://github-readme-stats-lucasdshg.vercel.app/api/top-langs/?username=LucasDshg&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
-	</a>
-	<a href="https://activity-graph.herokuapp.com" style="margin: 10px">
-		<img src="https://activity-graph.herokuapp.com/graph?username=LucasDshg&theme=react-dark&bg_color=20232a&" height="220"/>
-	</a>
- 	</p>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=LucasDshg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages and Tools
-
-<div style="display: inline_block"><br>
-<p align="left"> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript" width="40" height="40" />
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript" width="40" height="40" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-			alt="html5" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-			width="40" height="40" />
-	</a>
-	<a href="https://sass-lang.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-			width="40" height="40" />
-	</a>
-	<a href="https://angular.io" target="_blank">
-		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-	</a>
-	<a href="https://getbootstrap.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap" width="40" height="40" />
-	</a>
-		<a href="https://br.wordpress.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg"
-			alt="wordpress" width="40" height="40" />
-	</a>
-	<a href="https://www.figma.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-	</a>
-	<a href="https://www.adobe.com/products/xd.html" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-	</a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-			height="40" />
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-			alt="photoshop" width="40" height="40" />
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-	</a>
-	<a href="https://postman.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-			width="40" height="40" />
-	</a>
-	<a href="https://dotnet.microsoft.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-			alt="dotnet" width="40" height="40" />
-	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql" width="40" height="40" />
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-			alt="nodejs" width="40" height="40" />
-	</a>
-	<a href="https://www.postgresql.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql" width="40" height="40" />
-	</a>
-	</p>
-</div>
-
-## Contact me
- 
-<div> 
-  <a href="https://instagram.com/lucas_dshg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas.dshg@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-henriques-997276125" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	 <a href="https://www.behance.net/lucashenriques" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
- 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
