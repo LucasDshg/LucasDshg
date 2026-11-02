@@ -1,21 +1,82 @@
-# 💫 About Me:
-I'm Lucas, acting as Senior Software Developer and UI/UX Designer, specialized in visual and interactive solutions for the web. My professional career is marked by the creation of intuitive and customer-centric websites, using cutting-edge technologies such as Angular, Ionic, NodeJs and NestJs to deliver engaging and effective digital experiences.<br><br>Excellence in development and design is my north, always seeking to align the needs of users with simple and attractive designs. With a collaborative approach, I work alongside teams to innovate and overcome challenges in UI/UX, contributing significantly to projects that stand out in the digital market.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2dd4bf&height=190&section=header&text=Lucas&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20UI%2FUX&descAlignY=60&descSize=20" alt="Header" />
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lucashenriques) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-henriques-997276125) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=8%2B+anos+de+engenharia+de+software;Angular+%C2%B7+React+%C2%B7+NestJS+%C2%B7+GCP;Design+Systems+%C2%B7+Micro+Front-ends;Agentes+de+IA+%C2%B7+RAG+%C2%B7+MCP)](https://github.com/LucasDshg)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucasDshg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LucasDshg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDshg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-meu--portfolio.app.br-0f172a?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf)](https://www.meu-portfolio.app.br/u/lucas-gomes/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-henriques-997276125)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LucasDshg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasDshg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Sobre mim
+
+Engenheiro de Software Sênior com **mais de 8 anos de experiência**, especializado em arquitetar soluções digitais de alta performance e escalabilidade. Transformo desafios complexos em experiências fluidas com **Angular, React e NestJS**, e infraestrutura em nuvem com **GCP e Firebase**.
+
+Minha atuação foca na criação de **Design Systems** robustos e componentes modulares que garantem consistência em produtos de larga escala, e agora se une à **engenharia de inteligência artificial**: agentes inteligentes, pipelines de **RAG** e arquiteturas baseadas em **Micro Front-ends**.
+
+- 🔄 Migrei sistemas legados em **Java JSP** para arquiteturas reativas com **Angular**
+- 🎨 Participo das dinâmicas de design no **Figma**: valido fluxos, sugiro melhorias de usabilidade e construo interfaces do zero
+- 📚 Documento bibliotecas de componentes com **Storybook**
+- 🏦 Liderei arquiteturas complexas (microsserviços em NestJS e ecossistemas de Micro Front-ends) em projetos para o **Bradesco** e a **Safra**
+- 🤖 Aplico IA em produção: agentes com RAG, busca vetorial via **MongoDB Atlas**, modelos **Gemini** e arquiteturas **MCP (Model Context Protocol)**
+- ☕ Apoio o time de backend em demandas pontuais de **Java** ou **C#**
+
+> Minha missão é unir código limpo, sensibilidade estética e arquitetura escalável para entregar produtos que resolvem dores reais e geram valor imediato ao negócio.
+
+---
+
+## 🛠️ Stack
+
+**Front-end**
+
+![Front](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind,ionic,storybook&perline=10)
+
+**Back-end, dados e nuvem**
+
+![Back](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,mysql,firebase,gcp&perline=8)
+
+**Qualidade, CI/CD e design**
+
+![DevOps](https://skillicons.dev/icons?i=jest,gitlab,jenkins,docker,git,github,figma&perline=7)
+
+**IA e agentes:** MCP · Claude Code · RAG · Busca vetorial (MongoDB Atlas) · Gemini
+
+---
+
+## 🎓 Certificações (2026)
+
+- **Google Cloud Fundamentals: Core Infrastructure** – Google
+- **Claude on Google Cloud** – Anthropic
+- **AI Fluency Framework & Foundations** (Certificate of Completion) – Anthropic
+- **AWS Knowledge: Cloud Essentials** – AWS
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+[![Seguidores](https://img.shields.io/github/followers/LucasDshg?style=for-the-badge&logo=github&color=0f172a&labelColor=0f172a&logoColor=2dd4bf)](https://github.com/LucasDshg?tab=followers)
+[![Perfil](https://img.shields.io/badge/Ver%20perfil-LucasDshg-0f172a?style=for-the-badge&logo=github&logoColor=2dd4bf)](https://github.com/LucasDshg)
+
+<a href="https://github.com/LucasDshg">
+  <img src="https://ghchart.rshah.org/2dd4bf/LucasDshg" alt="Gráfico de contribuições de LucasDshg" width="720" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou sempre aberto a novos desafios técnicos e parcerias. Se você tem um projeto interessante, vamos conversar.
+
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-0f172a?style=flat-square&logo=googlechrome&logoColor=2dd4bf)](https://www.meu-portfolio.app.br/u/lucas-gomes/about)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-henriques-997276125)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2dd4bf&height=100&section=footer" alt="Footer" />
+</div>
